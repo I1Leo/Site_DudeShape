@@ -1199,7 +1199,7 @@ body {
    align-items: center;
 
    &::before {
-      content: url(/img/customer-star.svg);
+      content: url(img/customer-star.svg);
       padding-right: 8px;
    }
 }
@@ -1315,7 +1315,7 @@ body {
    position: relative;
 
    &::before {
-      content: url(/img/subscribe-mail.svg);
+      content: url(img/subscribe-mail.svg);
       width: 16px;
       height: 16px;
       transform: translate(17.52px, 39px);
